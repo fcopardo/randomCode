@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BairesDevProject</string>
+
+
+    <string name="sidebar_opt1">Google</string>
+    <string name="sidebar_opt2">Buttons</string>
+    <string name="sidebar_opt3">Top 10 Projects</string>
+
+    <string name="show_toast">Show a Toast</string>
+    <string name="show_alert">Show an Alert</string>
+    <string name="msg_toast">This is a Toast!</string>
+    <string name="msg_alert">This is an Alert!</string>
+
+</resources>

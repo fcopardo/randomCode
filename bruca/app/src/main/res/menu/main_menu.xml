@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/sidebar_opt1"
+            android:checked="true"
+            android:title="@string/sidebar_opt1" />
+        <item
+            android:id="@+id/sidebar_opt2"
+            android:title="@string/sidebar_opt2" />
+        <item
+            android:id="@+id/sidebar_opt3"
+            android:title="@string/sidebar_opt3" />
+    </group>
+</menu>
