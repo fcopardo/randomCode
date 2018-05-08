@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/f_google"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Google" />
+        <item
+            android:id="@+id/f_toast"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Toast" />
+        <item
+            android:id="@+id/f_github"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Guthub" />
+    </group>
+
+
+
+</menu>
