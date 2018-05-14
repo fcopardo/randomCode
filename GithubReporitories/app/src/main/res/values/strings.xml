@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BairesDevTest</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button_show_toast">Show Toast</string>
+    <string name="toast_this_is_toast_message">This is the Toast</string>
+</resources>
